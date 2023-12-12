@@ -42,9 +42,9 @@ public class NoteSearch extends ListActivity implements SearchView.OnQueryTextLi
         String searchText = "%" + s + "%";
 
         // 创建内容提供者 URI
-        Uri contentUri = Notes.CONTENT_NOTE_URI; // 这里替换为你的笔记内容提供者的 URI
+        Uri contentUri = Notes.CONTENT_NOTE_URI;
 
-        // 执行查询操作
+        // 执行查询操作，小米便签中 在NoteProvider中已经封装好搜索的功能，使用ContentResolver 调用对应的方法即可
         ContentResolver resolver = getContentResolver();
         String[] projection = NoteItemData.PROJECTION;
         String selection = Notes.NoteColumns.SNIPPET + " Like ? ";

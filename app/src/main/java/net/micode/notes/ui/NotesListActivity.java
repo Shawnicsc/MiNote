@@ -817,7 +817,7 @@ public class NotesListActivity extends Activity implements OnClickListener, OnIt
         } else {
             Log.e(TAG, "Wrong state:" + mState);
         }
-
+        // 按键隐藏
         if(mode == -1){
             menu.findItem(R.id.Rose).setVisible(false);
         }

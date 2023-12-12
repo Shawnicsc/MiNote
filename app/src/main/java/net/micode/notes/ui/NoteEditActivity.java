@@ -827,6 +827,7 @@ public class NoteEditActivity extends Activity implements OnClickListener,
     }
     //设置密码函数
     public void setPassword(){
+        //对话框
         final AlertDialog.Builder builder = new AlertDialog.Builder(this);
         final View view = LayoutInflater.from(this).inflate(R.layout.dialog_edit_text,null);
         //编辑Text
