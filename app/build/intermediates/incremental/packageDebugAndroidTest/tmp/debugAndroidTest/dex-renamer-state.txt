@@ -1,0 +1,4 @@
+#Mon Dec 11 23:24:09 CST 2023
+base.0=E\:\\Android-Studio\\Android-Project\\MiNote\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
