@@ -1,438 +1,446 @@
 [
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable_btn_create.xml.flat",
-        "source": "net.micode.notes.app-main-5:/drawable/btn_create.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_dialog_create_new_folder.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\dialog_create_new_folder.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_font_normal.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/font_normal.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_selected.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\selected.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_yellow_single.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_yellow_single.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_yellow_up.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_yellow_up.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_widget_2x_blue.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/widget_2x_blue.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\color_primary_text_dark.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\color\\primary_text_dark.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/color_secondary_text_dark.xml.flat",
-        "source": "net.micode.notes.app-main-5:/color/secondary_text_dark.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\menu_call_note_edit.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\menu\\call_note_edit.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/color_primary_text_dark.xml.flat",
-        "source": "net.micode.notes.app-main-5:/color/primary_text_dark.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\raw_introduction.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\raw\\introduction"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_green_single.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_green_single.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_widget_2x_green.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\widget_2x_green.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_white_middle.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_white_middle.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_edit_title_blue.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\edit_title_blue.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_dialog_edit_text.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/dialog_edit_text.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_green_down.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_green_down.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_dialog_is_to_pull.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/dialog_is_to_pull.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_btn_create_normal.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\btn_create_normal.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_note_edit.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/note_edit.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_white_single.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_white_single.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_white_up.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_white_up.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\menu_sub_folder.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\menu\\sub_folder.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_white_down.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_white_down.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_blue_middle.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_blue_middle.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_folder_list_item.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/folder_list_item.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_widget_2x_red.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\widget_2x_red.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_font_small.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/font_small.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_font_super.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\font_super.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_red_down.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_red_down.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_datetime_picker.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\datetime_picker.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_red_single.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_red_single.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\menu_note_list_options.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\menu\\note_list_options.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_note_edit_color_selector_panel.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/note_edit_color_selector_panel.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_dialog_edit_text.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\dialog_edit_text.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_yellow_up.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_yellow_up.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_begin_view.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\begin_view.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_clock.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/clock.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_note_edit_color_selector_panel.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\note_edit_color_selector_panel.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_begin_view.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/begin_view.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_yellow_down.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_yellow_down.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_note_list.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/note_list.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_edit_title_white.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\edit_title_white.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/menu_note_list_dropdown.xml.flat",
-        "source": "net.micode.notes.app-main-5:/menu/note_list_dropdown.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable_btn_create.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable\\btn_create.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_rose.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/rose.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_yellow_middle.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_yellow_middle.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_bg_btn_set_color.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/bg_btn_set_color.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_edit_blue.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\edit_blue.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_green_down.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_green_down.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_font_size_selector_bg.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\font_size_selector_bg.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/menu_note_edit.xml.flat",
-        "source": "net.micode.notes.app-main-5:/menu/note_edit.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_widget_2x_blue.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\widget_2x_blue.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_blue_middle.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_blue_middle.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_clock.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\clock.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_dialog_create_new_folder.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/dialog_create_new_folder.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\menu_note_list_dropdown.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\menu\\note_list_dropdown.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_widget_4x_blue.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/widget_4x_blue.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_blue_down.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_blue_down.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_title_alert.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/title_alert.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_widget_2x.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\widget_2x.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_btn_create_normal.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/btn_create_normal.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\menu_note_edit.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\menu\\note_edit.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/menu_note_list.xml.flat",
-        "source": "net.micode.notes.app-main-5:/menu/note_list.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_edit_title_yellow.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\edit_title_yellow.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_blue_single.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_blue_single.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_account_dialog_title.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\account_dialog_title.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_register_edit.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/register_edit.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\color_secondary_text_dark.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\color\\secondary_text_dark.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_background_default.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/background_default.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_menu_delete.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\menu_delete.png"
+    },
+    {
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_red_single.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_red_single.9.png"
+    },
+    {
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\xml_searchable.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\xml\\searchable.xml"
+    },
+    {
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_red_middle.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_red_middle.9.png"
+    },
+    {
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_font_small.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\font_small.png"
+    },
+    {
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_icon_app.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\icon_app.png"
+    },
+    {
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_notification.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\notification.png"
     },
     {
         "merged": "net.micode.notes.app-merged_res-4:/menu_note_list_options.xml.flat",
         "source": "net.micode.notes.app-main-5:/menu/note_list_options.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_activity_password.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/activity_password.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_call_record.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\call_record.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_widget_4x_white.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/widget_4x_white.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_activity_password.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\activity_password.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_widget_2x.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/widget_2x.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_bg_color_btn_mask.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\bg_color_btn_mask.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/menu_call_record_folder.xml.flat",
-        "source": "net.micode.notes.app-main-5:/menu/call_record_folder.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_widget_4x_green.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\widget_4x_green.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_font_large.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/font_large.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_waiwai.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\waiwai.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_edit_title_yellow.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/edit_title_yellow.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_edit_yellow.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\edit_yellow.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_call_record.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/call_record.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_title_alert.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\title_alert.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/xml_widget_4x_info.xml.flat",
-        "source": "net.micode.notes.app-main-5:/xml/widget_4x_info.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\xml_widget_4x_info.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\xml\\widget_4x_info.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_menu_delete.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/menu_delete.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_lisa.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\lisa.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_login_edit.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/login_edit.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_white_up.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_white_up.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_selected.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/selected.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_edit_red.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\edit_red.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_widget_2x_yellow.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/widget_2x_yellow.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\xml_preferences.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\xml\\preferences.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_settings_header.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/settings_header.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_note_edit_list_item.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\note_edit_list_item.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_edit_title_blue.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/edit_title_blue.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_blue_single.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_blue_single.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_widget_4x.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/widget_4x.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_widget_4x_white.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\widget_4x_white.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_white_single.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_white_single.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_blue_up.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_blue_up.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_account_dialog_title.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/account_dialog_title.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_background.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_background.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_yellow_middle.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_yellow_middle.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_widget_4x_blue.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\widget_4x_blue.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_widget_4x_green.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/widget_4x_green.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_note_edit.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\note_edit.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_search_result.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/search_result.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_settings_header.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\settings_header.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_btn_create_pressed.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/btn_create_pressed.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_note_list.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\note_list.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_note_list_dropdown_menu.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/note_list_dropdown_menu.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_note_search_list.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\note_search_list.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_waiwai.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/waiwai.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_red_up.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_red_up.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_font_super.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/font_super.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_register_edit.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\register_edit.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/menu_sub_folder.xml.flat",
-        "source": "net.micode.notes.app-main-5:/menu/sub_folder.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_white_middle.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_white_middle.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_edit_yellow.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/edit_yellow.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_rose.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\rose.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_dropdown_icon.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/dropdown_icon.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_folder.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_folder.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_red_middle.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_red_middle.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_background_default.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\background_default.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_delete.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/delete.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_dialog_is_to_pull.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\dialog_is_to_pull.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_lisa.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/lisa.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_ic_lock_idle_lock.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\ic_lock_idle_lock.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_background.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_background.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_widget_4x.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\widget_4x.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_yellow_down.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_yellow_down.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\menu_call_record_folder.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\menu\\call_record_folder.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_note_edit_list_item.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/note_edit_list_item.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\raw-zh-rCN_introduction.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\raw-zh-rCN\\introduction"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_font_size_selector_bg.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/font_size_selector_bg.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_font_large.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\font_large.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_title_bar_bg.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/title_bar_bg.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_edit_title_green.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\edit_title_green.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_widget_4x_yellow.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/widget_4x_yellow.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_edit_title_red.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\edit_title_red.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_footer_bg.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_footer_bg.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_note_list_dropdown_menu.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\note_list_dropdown_menu.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_widget_2x_green.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/widget_2x_green.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_title_bar_bg.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\title_bar_bg.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_bg_color_btn_mask.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/bg_color_btn_mask.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_add_image.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\add_image.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_red_up.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_red_up.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\xml_widget_2x_info.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\xml\\widget_2x_info.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_edit_title_green.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/edit_title_green.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_widget_2x_yellow.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\widget_2x_yellow.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_widget_2x_white.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/widget_2x_white.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_login_edit.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\login_edit.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_add_image.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/add_image.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\menu_note_list.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\menu\\note_list.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_edit_red.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/edit_red.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_edit_white.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\edit_white.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_note_item.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/note_item.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_search_result.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\search_result.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/xml_searchable.xml.flat",
-        "source": "net.micode.notes.app-main-5:/xml/searchable.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_folder_list_item.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\folder_list_item.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_icon_app.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/icon_app.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_bg_btn_set_color.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\bg_btn_set_color.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_menu_move.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/menu_move.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_widget_2x_white.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\widget_2x_white.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_note_list_footer.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/note_list_footer.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_font_normal.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\font_normal.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_edit_green.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/edit_green.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_widget_4x_yellow.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\widget_4x_yellow.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/raw-zh-rCN_introduction.flat",
-        "source": "net.micode.notes.app-main-5:/raw-zh-rCN/introduction"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_delete.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\delete.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_add_account_text.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/add_account_text.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_green_up.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_green_up.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_notification.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/notification.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_btn_create_pressed.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\btn_create_pressed.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_edit_white.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/edit_white.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_footer_bg.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_footer_bg.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_widget_4x_red.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/widget_4x_red.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_yellow_single.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_yellow_single.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/xml_widget_2x_info.xml.flat",
-        "source": "net.micode.notes.app-main-5:/xml/widget_2x_info.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_edit_green.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\edit_green.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_edit_title_white.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/edit_title_white.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_red_down.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_red_down.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_ic_lock_idle_lock.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/ic_lock_idle_lock.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_noteslist_item.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\noteslist_item.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/menu_call_note_edit.xml.flat",
-        "source": "net.micode.notes.app-main-5:/menu/call_note_edit.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_green_single.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_green_single.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_edit_blue.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/edit_blue.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_dropdown_icon.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\dropdown_icon.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_blue_up.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_blue_up.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_note_item.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\note_item.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_blue_down.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_blue_down.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_note_list_footer.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\note_list_footer.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_edit_title_red.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/edit_title_red.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_green_middle.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_green_middle.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/xml_preferences.xml.flat",
-        "source": "net.micode.notes.app-main-5:/xml/preferences.xml"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_menu_move.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\menu_move.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_green_up.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_green_up.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_list_white_down.9.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\list_white_down.9.png"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_datetime_picker.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/datetime_picker.xml"
-    },
-    {
-        "merged": "net.micode.notes.app-merged_res-4:/raw_introduction.flat",
-        "source": "net.micode.notes.app-main-5:/raw/introduction"
-    },
-    {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_green_middle.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_green_middle.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_add_account_text.xml.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\layout\\add_account_text.xml"
     },
     {
         "merged": "net.micode.notes.app-merged_res-4:/layout_note_search_list.xml.flat",
         "source": "net.micode.notes.app-main-5:/layout/note_search_list.xml"
     },
     {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_noteslist_item.xml.flat",
-        "source": "net.micode.notes.app-main-5:/layout/noteslist_item.xml"
-    },
-    {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_widget_2x_red.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/widget_2x_red.png"
-    },
-    {
-        "merged": "net.micode.notes.app-merged_res-4:/drawable-hdpi_list_folder.9.png.flat",
-        "source": "net.micode.notes.app-main-5:/drawable-hdpi/list_folder.9.png"
+        "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_widget_4x_red.png.flat",
+        "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-5:\\drawable-hdpi\\widget_4x_red.png"
     }
 ]

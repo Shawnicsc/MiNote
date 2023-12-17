@@ -202,6 +202,7 @@ public class NoteEditActivity extends Activity implements OnClickListener,
     }
 
     @Override
+    //重写onActivityResult()来处理返回的数据
     protected void onActivityResult(int requestCode, int resultCode, Intent intent) {
         super.onActivityResult(requestCode, resultCode, intent);
         ContentResolver resolver = getContentResolver();
@@ -253,6 +254,7 @@ public class NoteEditActivity extends Activity implements OnClickListener,
         }
     }
 
+
     //获取文件的real path
     public String getPath(final Context context, final Uri uri) {
 
@@ -260,6 +262,24 @@ public class NoteEditActivity extends Activity implements OnClickListener,
 
         // DocumentProvider
         if (isKitKat && DocumentsContract.isDocumentUri(context, uri)) {
+            // ExternalStorageProvider
+//            if (isExternalStorageDocument(uri)) {
+//                final String docId = DocumentsContract.getDocumentId(uri);
+//                final String[] split = docId.split(":");
+//                final String type = split[0];
+//
+//                if ("primary".equalsIgnoreCase(type)) {
+//                    return Environment.getExternalStorageDirectory() + "/" + split[1];
+//                }
+//            }
+//            // DownloadsProvider
+//            else if (isDownloadsDocument(uri)) {
+//                final String id = DocumentsContract.getDocumentId(uri);
+//                final Uri contentUri = ContentUris.withAppendedId(Uri.parse("content://downloads/public_downloads"), Long.valueOf(id));
+//                return getDataColumn(context, contentUri, null, null);
+//            }
+            // MediaProvider
+//            else
             if (isMediaDocument(uri)) {
                 final String docId = DocumentsContract.getDocumentId(uri);
                 final String[] split = docId.split(":");
@@ -306,6 +326,18 @@ public class NoteEditActivity extends Activity implements OnClickListener,
         }
         return null;
     }
+
+
+    //是否为外部存储文件
+//    public boolean isExternalStorageDocument(Uri uri) {
+//        return "com.android.externalstorage.documents".equals(uri.getAuthority());
+//    }
+//
+//    //是否为下载文件
+//    public boolean isDownloadsDocument(Uri uri) {
+//        return "com.android.providers.downloads.documents".equals(uri.getAuthority());
+//    }
+
     //是否为媒体文件
     public boolean isMediaDocument(Uri uri) {
         return "com.android.providers.media.documents".equals(uri.getAuthority());

@@ -97,6 +97,7 @@ id btn_new_note
 id btn_set_bg_color
 id cb_edit_item
 id date
+id delete
 id et_edit_text
 id folder_name
 id folder_name_view
@@ -143,6 +144,7 @@ id menu_setting
 id menu_share
 id menu_sync
 id minute
+id move
 id navigation_bar
 id new_password
 id new_password_again

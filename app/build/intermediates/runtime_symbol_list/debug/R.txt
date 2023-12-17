@@ -95,6 +95,7 @@ int id btn_new_note 0x7f050009
 int id btn_set_bg_color 0x7f05000a
 int id cb_edit_item 0x7f05000b
 int id date 0x7f05000c
+int id delete 0x7f050065
 int id et_edit_text 0x7f05000d
 int id folder_name 0x7f05000e
 int id folder_name_view 0x7f05000f
@@ -141,6 +142,7 @@ int id menu_setting 0x7f050037
 int id menu_share 0x7f050038
 int id menu_sync 0x7f050039
 int id minute 0x7f05003a
+int id move 0x7f050066
 int id navigation_bar 0x7f05003b
 int id new_password 0x7f05003c
 int id new_password_again 0x7f05003d

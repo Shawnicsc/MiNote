@@ -882,12 +882,6 @@ public class NotesListActivity extends Activity implements OnClickListener, OnIt
             onSearchRequested();
             return true;
         }
-        else if (itemId == R.id.option_search){
-            Intent intent = new Intent();
-            intent.setClass(NotesListActivity.this,NoteSearch.class);
-            NotesListActivity.this.startActivity(intent);
-            return true;
-        }
         else if (itemId == R.id.push_sync) {//上传
             upSync(this, USERACCOUNT, USERPASSWORD);
         }
