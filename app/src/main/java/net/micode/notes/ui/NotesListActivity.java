@@ -16,6 +16,7 @@
 
 package net.micode.notes.ui;
 
+import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -262,7 +263,8 @@ public class NotesListActivity extends Activity implements OnClickListener, OnIt
 
         public boolean onCreateActionMode(ActionMode mode, Menu menu) {
             getMenuInflater().inflate(R.menu.note_list_options, menu);
-
+            menu.findItem(R.id.delete).setOnMenuItemClickListener(this);
+            mMoveMenu = menu.findItem(R.id.move);
             if (mFocusNoteDataItem.getParentId() == Notes.ID_CALL_RECORD_FOLDER
                     || DataUtils.getUserFolderCount(mContentResolver) == 0) {
                 mMoveMenu.setVisible(false);
@@ -340,9 +342,27 @@ public class NotesListActivity extends Activity implements OnClickListener, OnIt
                 Toast.makeText(NotesListActivity.this, getString(R.string.menu_select_none),
                         Toast.LENGTH_SHORT).show();
                 return true;
+            }int itemId = item.getItemId();
+            if (itemId == R.id.delete) {
+                AlertDialog.Builder builder = new AlertDialog.Builder(NotesListActivity.this);
+                builder.setTitle(getString(R.string.alert_title_delete));
+                builder.setIcon(android.R.drawable.ic_dialog_alert);
+                builder.setMessage(getString(R.string.alert_message_delete_notes,
+                        mNotesListAdapter.getSelectedCount()));
+                builder.setPositiveButton(android.R.string.ok,
+                        new DialogInterface.OnClickListener() {
+                            public void onClick(DialogInterface dialog,
+                                                int which) {
+                                batchDelete();
+                            }
+                        });
+                builder.setNegativeButton(android.R.string.cancel, null);
+                builder.show();
+            } else if (itemId == R.id.move) {
+                startQueryDestinationFolders();
+            } else {
+                return false;
             }
-
-            int itemId = item.getItemId();
             return true;
         }
     }
@@ -470,6 +490,7 @@ public class NotesListActivity extends Activity implements OnClickListener, OnIt
         this.startActivityForResult(intent, REQUEST_CODE_NEW_NODE);
     }
 
+    @SuppressLint("StaticFieldLeak")
     private void batchDelete() {
         new AsyncTask<Void, Void, HashSet<AppWidgetAttribute>>() {
             protected HashSet<AppWidgetAttribute> doInBackground(Void... unused) {
@@ -970,7 +991,8 @@ public class NotesListActivity extends Activity implements OnClickListener, OnIt
                         if (item.getType() == Notes.TYPE_FOLDER
                                 || item.getType() == Notes.TYPE_SYSTEM) {
                             openFolder(item);
-                        } else if (item.getType() == Notes.TYPE_NOTE) {
+                        }
+                        else if (item.getType() == Notes.TYPE_NOTE) {
                             //打开PassWordEditAcitivity类，并传递noteid
                             Intent intent = new Intent(NotesListActivity.this, PassWordEditActivity.class);
                             long noteId = item.getId();
@@ -978,7 +1000,8 @@ public class NotesListActivity extends Activity implements OnClickListener, OnIt
                             startActivity(intent);
                             //
                             //openNode(item);
-                        } else {
+                        }
+                        else {
                             Log.e(TAG, "Wrong note type in NOTE_LIST");
                         }
                         break;

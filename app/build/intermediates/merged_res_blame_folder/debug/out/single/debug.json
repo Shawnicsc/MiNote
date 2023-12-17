@@ -168,6 +168,10 @@
         "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-6:\\drawable-hdpi\\notification.png"
     },
     {
+        "merged": "net.micode.notes.app-merged_res-4:/menu_note_list_options.xml.flat",
+        "source": "net.micode.notes.app-main-6:/menu/note_list_options.xml"
+    },
+    {
         "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_call_record.png.flat",
         "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-6:\\drawable-hdpi\\call_record.png"
     },
@@ -430,10 +434,6 @@
     {
         "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\layout_add_account_text.xml.flat",
         "source": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-main-6:\\layout\\add_account_text.xml"
-    },
-    {
-        "merged": "net.micode.notes.app-merged_res-4:/layout_noteslist_item.xml.flat",
-        "source": "net.micode.notes.app-main-6:/layout/noteslist_item.xml"
     },
     {
         "merged": "E:\\Android-Studio\\gradle\\daemon\\8.0\\net.micode.notes.app-merged_res-4:\\drawable-hdpi_widget_4x_red.png.flat",
