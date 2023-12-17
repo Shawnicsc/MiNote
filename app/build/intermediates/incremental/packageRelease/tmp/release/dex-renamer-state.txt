@@ -1,4 +1,0 @@
-#Sun Dec 17 14:06:41 CST 2023
-base.0=E\:\\Android-Studio\\Android-Project\\MiNote\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
