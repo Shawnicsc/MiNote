@@ -64,4 +64,22 @@ public class NoteSearch extends ListActivity implements SearchView.OnQueryTextLi
         return true;
     }
 
+    @Override
+    protected void onListItemClick(ListView l, View v, int position, long id) {
+        super.onListItemClick(l, v, position, id);
+        // 获取被点击项的Cursor
+        Cursor cursor = (Cursor) l.getItemAtPosition(position);
+
+        // 从Cursor中获取对应项的信息，例如笔记的ID
+        long noteId = cursor.getLong(cursor.getColumnIndexOrThrow(Notes.DataColumns.ID));
+
+        // 构建对应项的URI
+        Uri noteUri = ContentUris.withAppendedId(Notes.CONTENT_DATA_URI, noteId);
+
+        // 启动编辑窗口的Activity，并传递相应的URI
+        Intent editIntent = new Intent();
+        editIntent.setClass(NoteSearch.this,PassWordEditActivity.class);
+        editIntent.putExtra("noteId", noteId);
+        startActivity(editIntent);
+    }
 }

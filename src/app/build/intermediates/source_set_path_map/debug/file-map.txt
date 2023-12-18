@@ -1,7 +1,7 @@
-net.micode.notes.app-pngs-0 E:\Android-Studio\Android-Project\MiNote\app\build\generated\res\pngs\debug
-net.micode.notes.app-resValues-1 E:\Android-Studio\Android-Project\MiNote\app\build\generated\res\resValues\debug
-net.micode.notes.app-packageDebugResources-2 E:\Android-Studio\Android-Project\MiNote\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-net.micode.notes.app-packageDebugResources-3 E:\Android-Studio\Android-Project\MiNote\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-net.micode.notes.app-merged_res-4 E:\Android-Studio\Android-Project\MiNote\app\build\intermediates\merged_res\debug
-net.micode.notes.app-debug-5 E:\Android-Studio\Android-Project\MiNote\app\src\debug\res
-net.micode.notes.app-main-6 E:\Android-Studio\Android-Project\MiNote\app\src\main\res
+net.micode.notes.app-pngs-0 E:\Android-Studio\Android-Project\MiNote\src\app\build\generated\res\pngs\debug
+net.micode.notes.app-resValues-1 E:\Android-Studio\Android-Project\MiNote\src\app\build\generated\res\resValues\debug
+net.micode.notes.app-packageDebugResources-2 E:\Android-Studio\Android-Project\MiNote\src\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+net.micode.notes.app-packageDebugResources-3 E:\Android-Studio\Android-Project\MiNote\src\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+net.micode.notes.app-merged_res-4 E:\Android-Studio\Android-Project\MiNote\src\app\build\intermediates\merged_res\debug
+net.micode.notes.app-debug-5 E:\Android-Studio\Android-Project\MiNote\src\app\src\debug\res
+net.micode.notes.app-main-6 E:\Android-Studio\Android-Project\MiNote\src\app\src\main\res

@@ -4,7 +4,7 @@
             "outputFile": "net.micode.notes.app-mergeDebugResources-2:/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
-                    "source": "E:\\Android-Studio\\Android-Project\\MiNote\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "source": "E:\\Android-Studio\\Android-Project\\MiNote\\src\\app\\src\\main\\res\\values-zh-rTW\\strings.xml",
                     "from": {
                         "startLines": "123,72,71,70,69,19,20,21,113,114,122,121,26,76,77,75,74,73,89,88,87,79,61,29,30,80,37,115,68,64,39,45,50,40,60,59,58,54,53,51,52,93,55,56,46,67,57,65,44,49,48,47,63,43,62,41,42,66,28,34,36,33,35,32,31,25,24,97,96,99,111,104,103,105,106,108,107,98,102,100,101,95,109,110,120,118,117,119,27,78,86,91,90,92,85,84,83,82,22,23",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "E:\\Android-Studio\\Android-Project\\MiNote\\app\\src\\main\\res\\values-zh-rTW\\arrays.xml",
+                    "source": "E:\\Android-Studio\\Android-Project\\MiNote\\src\\app\\src\\main\\res\\values-zh-rTW\\arrays.xml",
                     "from": {
                         "startLines": "18",
                         "startColumns": "4",

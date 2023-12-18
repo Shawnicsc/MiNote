@@ -199,6 +199,17 @@ public class NoteEditActivity extends Activity implements OnClickListener,
                 startActivityForResult(loadImage, PHOTO_REQUEST);
             }
         });
+        handleIntent(getIntent());
+    }
+    private void handleIntent(Intent intent) {
+        String action = intent.getAction();
+
+        if (Intent.ACTION_EDIT.equals(action)) {
+            // 处理编辑操作
+            Uri data = intent.getData();
+            // 根据URI执行相应的操作
+            Log.d(TAG, "Received Intent with action: " + action + ", Data: " + data);
+        }
     }
 
     @Override

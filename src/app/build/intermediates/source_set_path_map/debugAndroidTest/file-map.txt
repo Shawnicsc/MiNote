@@ -1,4 +1,0 @@
-net.micode.notes.test.app-androidTest-0 E:\Android-Studio\Android-Project\MiNote\app\build\generated\res\resValues\androidTest\debug
-net.micode.notes.test.app-mergeDebugAndroidTestResources-1 E:\Android-Studio\Android-Project\MiNote\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-net.micode.notes.test.app-mergeDebugAndroidTestResources-2 E:\Android-Studio\Android-Project\MiNote\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-net.micode.notes.test.app-merged_res-3 E:\Android-Studio\Android-Project\MiNote\app\build\intermediates\merged_res\debugAndroidTest

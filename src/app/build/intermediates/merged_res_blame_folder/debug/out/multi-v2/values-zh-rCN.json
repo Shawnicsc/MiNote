@@ -4,7 +4,7 @@
             "outputFile": "net.micode.notes.app-mergeDebugResources-2:/values-zh-rCN/values-zh-rCN.xml",
             "map": [
                 {
-                    "source": "E:\\Android-Studio\\Android-Project\\MiNote\\app\\src\\main\\res\\values-zh-rCN\\arrays.xml",
+                    "source": "E:\\Android-Studio\\Android-Project\\MiNote\\src\\app\\src\\main\\res\\values-zh-rCN\\arrays.xml",
                     "from": {
                         "startLines": "18",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "E:\\Android-Studio\\Android-Project\\MiNote\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "source": "E:\\Android-Studio\\Android-Project\\MiNote\\src\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
                     "from": {
                         "startLines": "125,71,70,69,68,19,20,21,116,117,124,123,26,77,78,76,75,74,94,93,92,80,60,29,30,81,72,118,67,63,38,44,49,39,59,58,57,53,52,50,51,85,54,55,45,66,56,64,43,48,47,46,62,42,61,40,41,65,83,28,34,36,33,35,84,32,31,25,24,101,100,103,115,108,107,109,110,112,111,102,106,104,105,99,113,114,122,120,119,121,27,79,91,96,95,97,90,89,88,87,22,23",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
