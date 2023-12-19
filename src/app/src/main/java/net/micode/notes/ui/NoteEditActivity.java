@@ -199,19 +199,7 @@ public class NoteEditActivity extends Activity implements OnClickListener,
                 startActivityForResult(loadImage, PHOTO_REQUEST);
             }
         });
-        handleIntent(getIntent());
     }
-    private void handleIntent(Intent intent) {
-        String action = intent.getAction();
-
-        if (Intent.ACTION_EDIT.equals(action)) {
-            // 处理编辑操作
-            Uri data = intent.getData();
-            // 根据URI执行相应的操作
-            Log.d(TAG, "Received Intent with action: " + action + ", Data: " + data);
-        }
-    }
-
     @Override
     //重写onActivityResult()来处理返回的数据
     protected void onActivityResult(int requestCode, int resultCode, Intent intent) {
@@ -251,10 +239,10 @@ public class NoteEditActivity extends Activity implements OnClickListener,
                     ContentValues contentValues = new ContentValues();
                     final long id = mWorkingNote.getNoteId();
                     contentValues.put("snippet",mWorkingNote.mContent);
-                    contentResolver.update(Uri.parse("content://micode_notes/note"), contentValues,"_id=?",new String[]{""+id});
+                    contentResolver.update(Uri.parse(String.valueOf(Notes.CONTENT_NOTE_URI)), contentValues,"_id=?",new String[]{""+id});
                     ContentValues contentValues1 = new ContentValues();
                     contentValues1.put("content",mWorkingNote.mContent);
-                    contentResolver.update(Uri.parse("content://micode_notes/data"), contentValues1,"mime_type=? and note_id=?", new String[]{"vnd.android.cursor.item/text_note",""+id});
+                    contentResolver.update(Uri.parse(String.valueOf(Notes.CONTENT_DATA_URI)), contentValues1,"mime_type=? and note_id=?", new String[]{"vnd.android.cursor.item/text_note",""+id});
 
                 }else{
                     Toast.makeText(NoteEditActivity.this, "获取图片失败", Toast.LENGTH_SHORT).show();
@@ -264,8 +252,46 @@ public class NoteEditActivity extends Activity implements OnClickListener,
                 break;
         }
     }
-
-
+    //路径字符串格式 转换为 图片image格式
+    private void convertToImage() {
+        NoteEditText noteEditText = (NoteEditText) findViewById(R.id.note_edit_view); //获取当前的edit
+        Editable editable = noteEditText.getText();//1.获取text
+        String noteText = editable.toString(); //2.将note内容转换为字符串
+        int length = editable.length(); //内容的长度
+        //3.截取img片段 [local]+uri+[local]，提取uri
+        for(int i = 0; i < length; i++) {
+            for(int j = i; j < length; j++) {
+                String img_fragment = noteText.substring(i, j+1); //img_fragment：关于图片路径的片段
+                if(img_fragment.length() > 15 && img_fragment.endsWith("[/local]") && img_fragment.startsWith("[local]")){
+                    int limit = 7;  //[local]为7个字符
+                    //[local][/local]共15个字符，剩下的为真正的path长度
+                    int len = img_fragment.length()-15;
+                    //从[local]之后的len个字符就是path
+                    String path = img_fragment.substring(limit,limit+len);//获取到了图片路径
+                    Bitmap bitmap = null;
+                    Log.d(TAG, "图片的路径是："+path);
+                    try {
+                        bitmap = BitmapFactory.decodeFile(path);//将图片路径解码为图片格式
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
+                    if(bitmap!=null){  //若图片存在
+                        Log.d(TAG, "图片不为null");
+                        ImageSpan imageSpan = new ImageSpan(NoteEditActivity.this, bitmap);
+                        //4.创建一个SpannableString对象，以便插入用ImageSpan对象封装的图像
+                        String ss = "[local]" + path + "[/local]";
+                        SpannableString spannableString = new SpannableString(ss);
+                        //5.将指定的标记对象附加到文本的开始...结束范围
+                        spannableString.setSpan(imageSpan, 0, ss.length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
+                        Log.d(TAG, "Create spannable string success!");
+                        Editable edit_text = noteEditText.getEditableText();
+                        edit_text.delete(i,i+len+15); //6.删掉图片路径的文字
+                        edit_text.insert(i, spannableString); //7.在路径的起始位置插入图片
+                    }
+                }
+            }
+        }
+    }
     //获取文件的real path
     public String getPath(final Context context, final Uri uri) {
 
@@ -273,24 +299,6 @@ public class NoteEditActivity extends Activity implements OnClickListener,
 
         // DocumentProvider
         if (isKitKat && DocumentsContract.isDocumentUri(context, uri)) {
-            // ExternalStorageProvider
-//            if (isExternalStorageDocument(uri)) {
-//                final String docId = DocumentsContract.getDocumentId(uri);
-//                final String[] split = docId.split(":");
-//                final String type = split[0];
-//
-//                if ("primary".equalsIgnoreCase(type)) {
-//                    return Environment.getExternalStorageDirectory() + "/" + split[1];
-//                }
-//            }
-//            // DownloadsProvider
-//            else if (isDownloadsDocument(uri)) {
-//                final String id = DocumentsContract.getDocumentId(uri);
-//                final Uri contentUri = ContentUris.withAppendedId(Uri.parse("content://downloads/public_downloads"), Long.valueOf(id));
-//                return getDataColumn(context, contentUri, null, null);
-//            }
-            // MediaProvider
-//            else
             if (isMediaDocument(uri)) {
                 final String docId = DocumentsContract.getDocumentId(uri);
                 final String[] split = docId.split(":");
@@ -545,6 +553,7 @@ public class NoteEditActivity extends Activity implements OnClickListener,
          * is not ready
          */
         showAlertHeader();
+        convertToImage();
     }
 
     private void showAlertHeader() {
@@ -1184,6 +1193,7 @@ public class NoteEditActivity extends Activity implements OnClickListener,
             mNoteEditor.setText(getHighlightQueryResult(mWorkingNote.getContent(), mUserQuery));
             mEditTextList.setVisibility(View.GONE);
             mNoteEditor.setVisibility(View.VISIBLE);
+            convertToImage();
         }
     }
 
