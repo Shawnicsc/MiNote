@@ -1,0 +1,7 @@
+net.micode.notes.app-pngs-0 E:\Android-Studio\Android-Project\MiNote\src\app\build\generated\res\pngs\release
+net.micode.notes.app-resValues-1 E:\Android-Studio\Android-Project\MiNote\src\app\build\generated\res\resValues\release
+net.micode.notes.app-packageReleaseResources-2 E:\Android-Studio\Android-Project\MiNote\src\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+net.micode.notes.app-packageReleaseResources-3 E:\Android-Studio\Android-Project\MiNote\src\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+net.micode.notes.app-merged_res-4 E:\Android-Studio\Android-Project\MiNote\src\app\build\intermediates\merged_res\release
+net.micode.notes.app-main-5 E:\Android-Studio\Android-Project\MiNote\src\app\src\main\res
+net.micode.notes.app-release-6 E:\Android-Studio\Android-Project\MiNote\src\app\src\release\res
