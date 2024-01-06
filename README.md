@@ -8,7 +8,7 @@
 
 **Android Studio 2022.3**
 
-**Gradle 8.1.3 **
+**Gradle 8.1.3**
 
 **SDK 11**
 
