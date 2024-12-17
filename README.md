@@ -24,11 +24,11 @@
 
 ### 1、登录注册功能
 
-![login](imgs/login.png)
+![login](src/imgs/login.png)
 
 ### 2、上传下载功能
 
-![export](imgs/export.png)
+![export](src/imgs/export.png)
 
 ### 3、加密文件功能
 
@@ -137,7 +137,7 @@
 
 
 
-![passwd](imgs/passwd.png)
+![passwd](src/imgs/passwd.png)
 
 ### 4、更换字体功能
 
