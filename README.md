@@ -199,7 +199,7 @@
 
 
 
-![font](imgs/font.png)
+![font](src/imgs/font.png)
 
 ### 5、实时模糊搜索功能
 
@@ -379,7 +379,7 @@ public class MyCursorAdapter extends SimpleCursorAdapter {
 
 
 
-![search](imgs/search.png)
+![search](src/imgs/search.png)
 
 ### 6、更换背景图片功能
 
